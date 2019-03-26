@@ -1,0 +1,10 @@
+organic food market
+minimize commute (work, grimbergen, groceries)
+
+
+current:
+    mamy:       64*2
+    groceries:  6*4
+    school:     72*2
+    work:       (64+9)*4
+    =588m=10h
